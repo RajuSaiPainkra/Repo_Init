@@ -1,0 +1,9 @@
+Added File2.txt
+Init Again the Git
+OR
+Clone the Remote Repo in Local House
+Modify / Create/ Edit/ Update with Editor
+Stagged for Commit 
+Commit -m once time again
+then 
+push the Repo on the Remote Repo
